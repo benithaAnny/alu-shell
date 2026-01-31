@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#script to get 10 best school
 i=1
 while [ $i -le 10 ]
 do
