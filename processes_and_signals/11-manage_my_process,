@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#Displays Usage: manage_my_process {start|stop|restart} if any other argument or no argument is passed
+while true
+do
+  echo "I am alive!" >> /tmp/my_process
+  sleep 2
+done
+
